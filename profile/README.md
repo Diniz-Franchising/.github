@@ -1,37 +1,38 @@
-# Diniz-Franchising 🏢
+# Óticas Diniz | Franchising & Tecnologia 🕶️
 
-Bem-vindo à organização Diniz-Franchising! Esta é a plataforma centralizada para gerenciamento e desenvolvimento de soluções para nossa rede de franquias.
+Bem-vindo à organização **Óticas Diniz | Franchising & Tecnologia**! Este é o seu hub centralizado para todas as soluções tecnológicas e recursos digitais que impulsionam a excelência e o sucesso da nossa rede de franquias.
 
 ## 📋 Sobre
 
-Diniz-Franchising é uma organização dedicada ao desenvolvimento e manutenção de sistemas, ferramentas e recursos para apoiar nossa rede de franquias. Nosso objetivo é fornecer soluções tecnológicas que facilitam a operação, gestão e crescimento de nossas unidades franqueadas.
+A **Óticas Diniz** é a maior rede de óticas do Brasil. Esta plataforma digital é dedicada ao desenvolvimento, manutenção e distribuição de sistemas, ferramentas e recursos digitais cruciais para apoiar a operação, gestão e crescimento contínuo de cada unidade franqueada, garantindo o **Padrão Diniz de Qualidade e Atendimento**.
 
 ## 🎯 Missão
 
-Fornecer soluções tecnológicas inovadoras e eficientes que empoderem nossos franqueados a alcançar o sucesso operacional e oferecer experiências excepcionais aos clientes.
+Potencializar o sucesso de cada franqueado, fornecendo soluções tecnológicas **inovadoras, robustas e específicas para o varejo óptico**, facilitando a gestão, otimizando a experiência do cliente (jornada da saúde visual) e sustentando a liderança da marca no mercado.
 
-## 🚀 Projetos
+## 👓 Nossos Pilares Tecnológicos (Foco Óptico)
 
-Esta organização hospeda diversos repositórios relacionados a:
+Os projetos hospedados aqui são categorizados para atender às necessidades específicas do nosso segmento:
 
-- **Sistemas de Gestão**: Ferramentas para gerenciamento operacional das franquias
-- **Plataformas de Vendas**: Soluções de e-commerce e PDV
-- **Ferramentas de Análise**: Dashboards e relatórios para tomada de decisão
-- **Recursos de Treinamento**: Materiais e plataformas de capacitação
-- **Integração de Sistemas**: APIs e conectores para terceiros
+* **Gestão de Estoque e Armazenamento (Lentes e Armações)**: Sistemas especializados para rastreabilidade, controle de validade de lentes de contato e gestão de inventário de produtos ópticos de alto valor.
+* **Gestão de Produção e Laboratório**: Integração com laboratórios e ferramentas para acompanhamento de ordens de serviço (OS) e *status* da produção de lentes oftálmicas.
+* **PDV e Vendas Especializadas**: Soluções de Ponto de Venda (PDV) adaptadas para a legislação e as particularidades da venda de produtos ópticos (receituário, medições, etc.).
+* **Análise de Desempenho (Franquias)**: Dashboards e relatórios *BI* para monitoramento de *KPIs* específicos do *franchising* óptico (taxa de conversão de receituário, *ticket* médio por categoria, *mix* de produtos).
+* **Experiência do Cliente (Jornada Visual)**: Ferramentas digitais de agendamento de consultas, prova virtual, e acompanhamento pós-venda focado na saúde visual.
 
 ## 👥 Equipe
 
-Nossa equipe é composta por desenvolvedores, analistas e especialistas em franchising comprometidos com a excelência técnica e o sucesso de nossos franqueados.
+Somos um time multifuncional composto por Desenvolvedores, Analistas de Sistemas, Especialistas em Varejo Óptico e Consultores de Franquias, todos alinhados com a excelência técnica e o sucesso operacional dos nossos franqueados.
 
-## 📞 Contato
+## 📞 Suporte e Contato
 
-Para mais informações sobre nossos projetos e soluções, entre em contato através dos canais oficiais da organização.
+* **Documentação Técnica**: Para APIs e guias de integração, consulte o repositório **Diniz-Docs**.
+* **Suporte ao Franqueado (TI)**: Entre em contato através do Service Desk oficial para questões operacionais ou dúvidas sobre as soluções.
 
 ## 📄 Licença
 
-Os projetos desta organização podem ter diferentes licenças. Consulte cada repositório específico para detalhes sobre licenciamento.
+O uso dos sistemas e códigos é regido pelo **Contrato de Franquia Mestre**. Consulte os termos de licenciamento específicos dentro de cada repositório.
 
 ---
 
-**Diniz-Franchising** - Tecnologia a serviço do crescimento!
+**Óticas Diniz** - Tecnologia que garante a melhor visão para o seu negócio!
